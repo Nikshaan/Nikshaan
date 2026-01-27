@@ -12,7 +12,7 @@ An **AIML Student** at **Dwarkadas J. Sanghvi College of Engineering, India**.
 
 **Setup**: Fedora, VS Code.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikshaan-shetty) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nikshaan06@gmail.com) [![Resume](https://img.shields.io/badge/Resume-46a2f9?style=flat&logo=adobe%20acrobat%20reader&logoColor=white)](https://drive.google.com/file/d/18dH-34G2O8g6SP2J3k5qcNbwaBzEMwlN/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikshaan-shetty) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:nikshaan06@gmail.com) [![Resume](https://img.shields.io/badge/Resume-46a2f9?style=flat&logo=adobe%20acrobat%20reader&logoColor=white)](https://drive.google.com/file/d/1ryktWOWx_oiFGicqo-RgTb_1oC_O6FQ8/view?usp=sharing)
 
 #### Organizations
 
