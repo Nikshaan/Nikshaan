@@ -20,8 +20,8 @@ An **AIML Student** at **Dwarkadas J. Sanghvi College of Engineering, India**.
 <table>
   <tr>
     <td><a href="https://github.com/elastic" target="_blank"><img src="https://github.com/elastic.png" width="30" alt="Elastic" title="Elastic (Open Source Contributor)" /></a></td>
-    <td><a href="https://github.com/dev-mentoria" target="_blank"><img src="https://github.com/dev-mentoria.png" width="30" alt="Mentoria" title="Mentoria" /></a></td>
+    <td><a href="https://github.com/backstage" target="_blank"><img src="https://github.com/backstage.png" width="30" alt="Backstage" title="Backstage (Open Source Contributor)" /></a></td>
+    <td><a href="https://github.com/dev-mentoria" target="_blank"><img src="https://github.com/dev-mentoria.png" width="30" alt="Dev Mentoria" title="Dev Mentoria" /></a></td>
     <td><a href="https://github.com/Varak-Technologies" target="_blank"><img src="https://github.com/Varak-Technologies.png" width="30" alt="Varak Technologies" title="Varak Technologies" /></a></td>
-    <td><a href="https://github.com/DJSCE-codeAI" target="_blank"><img src="https://github.com/DJSCE-codeAI.png" width="30" alt="DJSCE CodeAI" title="DJSCE CodeAI" /></a></td>
   </tr>
 </table>
