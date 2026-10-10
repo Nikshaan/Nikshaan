@@ -9,7 +9,7 @@ An **AIML Student** at **Dwarkadas J. Sanghvi College of Engineering, India**.
 
 <table>
   <tr>
-    <td><a href="https://drive.google.com/file/d/1ryktWOWx_oiFGicqo-RgTb_1oC_O6FQ8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-46a2f9?style=flat&logo=adobe%20acrobat%20reader&logoColor=white" alt="Resume" /></a></td>
+    <td><a href="https://drive.google.com/file/d/1vf8EjiWDQdoYdQS-KBhOBZc7Z4JmMT8n/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-46a2f9?style=flat&logo=adobe%20acrobat%20reader&logoColor=white" alt="Resume" /></a></td>
     <td><a href="https://www.linkedin.com/in/nikshaan-shetty"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td>
     <td><a href="mailto:nikshaan06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a></td>
   </tr>
